@@ -5,4 +5,4 @@ Header
 About me
 
 ### Language and Tools
-![HTML]https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
+![HTML]https://img.shields.io/badge/HTML-RED
