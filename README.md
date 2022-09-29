@@ -8,3 +8,4 @@
 ![SASS](https://img.shields.io/badge/SASS-090909?style=for-the-badge&logo=SASS)
 ![JS](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=React)
+![Webpack](https://img.shields.io/badge/Webpack-090909?style=for-the-badge&logo=Webpack)
