@@ -1,6 +1,6 @@
 ### Hi there 👋, i'm Nikita
 
-## I'm beginner Frontend developer 
+## I'm Junior Full Stack developer 
 
 ### Language and Tools
 ![HTML](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=HTML5)
